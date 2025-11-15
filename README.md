@@ -35,29 +35,29 @@ It supports **user registration, login, multiple calendars, and event management
 ## 🧩 Example Usage
 
 ▶️ Registration Menu
--Please choose
--Register for registering a new user
--Login for logging in
--Change Password for changing the password
--Remove for removing a user
--Show All Usernames for showing all usernames
--Exit for exiting from the program
+  Please choose
+  Register for registering a new user
+  Login for logging in
+  Change Password for changing the password
+  Remove for removing a user
+  Show All Usernames for showing all usernames
+  Exit for exiting from the program
 
 ▶️ Register a new user
--Register ali Ali123
--User registered successfully
+  Register ali Ali123
+  User registered successfully
 
 ▶️ Login
--Login ali Ali123
--Login successful
+  Login ali Ali123
+  Login successful
 
 ▶️ Main Menu (after login)
--Create New Calendar myCal
--Calendar created successfully
-
--Open Calendar 1
--Calendar opened successfully
+  Create New Calendar myCal
+  Calendar created successfully
+  
+  Open Calendar 1
+  Calendar opened successfully
 
 ▶️ Add Event
--Add Event Birthday VIP 01_05_2024 12_02_1403
--Event added successfully
+  Add Event Birthday VIP 01_05_2024 12_02_1403
+  Event added successfully
